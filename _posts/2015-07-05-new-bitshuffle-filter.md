@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "New BITSHUFFLE filter"
+title: "New 'bitshuffle' filter in C-Blosc"
 date: 2015-07-05
 ---
-
-New BITSHUFFLE filter
-=======================
 
 Although Blosc was meant for hosting more than one filter since day 0,
 it has traditionally came with just a single filter, known as 'shuffle',
