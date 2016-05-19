@@ -1,4 +1,10 @@
-New 'bitshuffle' filter
+---
+layout: post
+title: "New BITSHUFFLE filter"
+date: 2015-07-05
+---
+
+New BITSHUFFLE filter
 =======================
 
 Although Blosc was meant for hosting more than one filter since day 0,
