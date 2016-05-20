@@ -144,7 +144,7 @@ Just to make the benchmarks a bit more complete, let me finish this
 benchmark section showing the performance using the generic C code for
 the shuffling algorithm:
 
-![image](../images/blosclz-shuffle-generic-odroid.png)
+![image](/images/blosclz-shuffle-generic-odroid.png)
 
 If we compare with NEON figures for the ODROID board, we can see again
 an increase in speed of between 2x and 4x, which is crazy amazing (sorry
@@ -179,4 +179,4 @@ If you have ideas on what can be improved, and most specially **how**,
 we want to learn from you :) If you want to contribute code to the
 project, your pull requests are very welcome too! If you like what we
 are doing and want to see more of this, you can also [sponsor
-us](http://blosc.org/blog/seeking-sponsoship.html).
+us](http://www.blosc.org/professional-services.html).
